@@ -1,0 +1,12 @@
+git version -> VER A VERSÃO DO GIT INSTALADA NO PC
+cd.. -> VOLTA AS PASTAS
+cd <nome da pasta> -> ENTRA NA PASTA
+git init -> CRIA UM REPOSITORIO LOCAL
+dir -> MOSTRA OS ARQUIVOS DA PASTA
+git status -> VÊ O STATUS DA PASTA
+git add . -> 
+git commit -m <nome do commit> - DÁ COMMIT NO REPOSITORIO
+git config --global user.name <"nome no GitHub"> -> CONFIGURA O GIT PARA SUA CONTA NO GITHUB
+git config --global user.email <"email do github"> 
+git remote add origin <link repositorio github> -> vai conectar no repositorio no github
+git push origin master -> VAI MANDAR TUDO PARA O REPOSITORIO NO GITHUB
